@@ -1,0 +1,26 @@
+[
+    {
+        "id": 2,
+        "author": "Jane Doe",
+        "title": "Second Post",
+        "content": "This is another post.\r\nThis is another post."
+    },
+    {
+        "id": 3,
+        "author": "Jo Bo",
+        "title": "Third Post",
+        "content": "This is my third post."
+    },
+    {
+        "id": 4,
+        "author": "Galena",
+        "title": "Forth Post",
+        "content": "This is my forth post."
+    },
+    {
+        "id": 4,
+        "author": "Marijana",
+        "title": "Coffe taste good",
+        "content": "something to not be empty"
+    }
+]
